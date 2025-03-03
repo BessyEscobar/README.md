@@ -1,17 +1,17 @@
 # README.md
 
-# ¡Hola! Soy BessyEscobar 💻 Freelance full-stack dev 🙋‍♀️
+# Hi! I'm BessyEscobar 💻 Freelance full-stack dev 🙋‍♀️
 
-Soy una apasionada por la programación y el aprendizaje continuo. Mi carrera comenzó en atención al cliente en 2009, pero mi deseo de dar un giro profesional me llevó a estudiar **Full-Stack Development**.
+I'm passionate about programming and continuous learning. My career started in customer service in 2009, but my desire to make a professional shift led me to study **Full-Stack Development**.
 
-## Mi Trayectoria
+## My Journey
 
-**2009 - 2021:** Atención al cliente 👩‍💼
-**2021 - 2022:** Full-Stack Developer en Adalab 👩‍💻  
-**2022:** Certificación en Ciberseguridad con Coursera y Google 🕵️‍♀️
+**2009 - 2021:** Customer Service 👩‍💼
+**2021 - 2022:** Full-Stack Developer at Adalab 👩‍💻  
+**2022:** Cybersecurity Certification with Coursera and Google 🕵️‍♀️
 
-## ¿Qué me apasiona? 🤖👾💻
-La tecnología y la programación son mi pasión. Busco constantemente nuevos desafíos para crecer profesionalmente.
+## What I'm Passionate About? 🤖👾💻
+Technology and programming are my passions. I'm constantly seeking new challenges to grow professionally.
 
 ## Proyectos
 
